@@ -1,0 +1,6 @@
+hash: 6c53d2f919fc627ede67951012713b8abca7d5d211cf2a0d428f020c9af55e44
+updated: 2018-12-10T17:17:24.590411019+08:00
+imports:
+- name: github.com/google/tcpproxy
+  version: dfa16c61dad2b18a385dfb351adf71566720535b
+testImports: []

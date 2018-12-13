@@ -1,0 +1,3 @@
+package: proxytest
+import:
+- package: github.com/google/tcpproxy
